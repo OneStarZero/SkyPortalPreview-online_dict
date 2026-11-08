@@ -1,0 +1,2 @@
+# SkyPortalPreview-online_dict
+SkyPortalPreview的在线翻译仓库
